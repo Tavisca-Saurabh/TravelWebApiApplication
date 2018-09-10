@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .header {
+            text-align: center;
+            background-color: #f1f1f1;
+        }
+        /* Style the tab */
+
+        .tab {
+            overflow: hidden;
+            border: 1px solid #ccc;
+            background-color: #f1f1f1;
+            margin: 0 auto;
+        }
+        /* Set height of body and the document to 100% */
+        body, html {
+            margin: 0;
+            font-family: Arial;
+        }
+
+        /* Style tab links */
+        .tab button {
+            color: black;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            font-size: 1em;
+            font-weight: bold;
+            width: 25%;
+        }
+
+            /* Change background color of buttons on hover */
+
+            .tab button:hover {
+                background-color: #ddd;
+            }
+
+            /* Create an active/current tablink class */
+
+            .tab button.active {
+                background-color: #ccc;
+            }
+        /* Style the tab content */
+
+        .tabcontent {
+            display: none;
+            border: 1px solid #ccc;
+            border-top: none;
+        }
+        .content {
+            width: 100%;
+            border: 1px dotted black;
+        }
+            .content button {
+                background-color: #ddd;
+                color: black;
+                padding: 14px 20px;
+                border:none;
+                cursor: pointer;
+            }
+        #hotelsDiv{
+           display:inline;
+           background-color:azure;
+        }
+        p {
+            margin: 0;
+            display: inline-block;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2 class="header"><img src="logo.png" /></h2>
+
+    <div class="tab">
+        <button class="tablinks" onclick="openTravelProduct(event, 'Hotel')">Hotel</button>
+        <button class="tablinks" onclick="openTravelProduct(event, 'Car')">Car</button>
+        <button class="tablinks" onclick="openTravelProduct(event, 'Air')">Air</button>
+        <button class="tablinks" onclick="openTravelProduct(event, 'Activity')">Activity</button>
+    </div>
+
+    <div id="Hotel" class="tabcontent">
+        <h3>Hotels</h3>
+        <div id="hotelsDiv" class="content"></div>
+    </div>
+    <div id="Car" class="tabcontent">
+        <h3>Car</h3>
+        <div id="CarDiv" class="content"></div>
+    </div>
+
+    <div id="Air" class="tabcontent">
+        <h3>Air</h3>
+        <div id="AirDiv" class="content"></div>
+    </div>
+
+    <div id="Activity" class="tabcontent">
+        <h3>Activity</h3>
+        <div id="activityDiv" class="content"></div>
+    </div>
+
+    <script>
+        function openTravelProduct(evt, cityName) {
+            if (cityName == "Hotel") {
+                GetAllHotels();
+            }
+            if (cityName == "Air") {
+                GetAllFlights();
+            }
+            if (cityName == "Car") {
+                GetAllCars();
+            }
+            if (cityName == "Activity") {
+                GetAllActivity();
+            }
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(cityName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+
+    </script>
+    <script src="User.js"></script>
+
+</body>

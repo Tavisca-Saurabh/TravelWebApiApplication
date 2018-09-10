@@ -1,0 +1,193 @@
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\ApplicationInsights.config
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\csc.exe
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\csc.exe.config
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\csc.rsp
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\csi.exe
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\csi.exe.config
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\csi.rsp
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.AppContext.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Collections.Immutable.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Console.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Diagnostics.Process.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.IO.Compression.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.IO.FileSystem.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.IO.Pipes.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Reflection.Metadata.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.AccessControl.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Claims.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Threading.Thread.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.ValueTuple.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Xml.XPath.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\vbc.exe
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\vbc.exe.config
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\vbc.rsp
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\VBCSCompiler.exe
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\roslyn\VBCSCompiler.exe.config
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\TravelWebApi.dll.config
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\TravelWebApi.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\TravelWebApi.pdb
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Antlr3.Runtime.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.AI.DependencyCollector.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.AI.Web.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.AI.WindowsServer.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.ApplicationInsights.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.Web.Infrastructure.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Newtonsoft.Json.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Net.Http.Formatting.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Helpers.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Http.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Http.WebHost.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Mvc.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Optimization.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Razor.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.Deployment.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.Razor.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\WebGrease.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Newtonsoft.Json.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Net.Http.Formatting.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Helpers.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Http.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Http.WebHost.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Mvc.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Optimization.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.Razor.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.Deployment.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.Razor.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Antlr3.Runtime.pdb
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.ApplicationInsights.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.AI.DependencyCollector.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.AI.WindowsServer.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\bin\Microsoft.AI.Web.xml
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\obj\Debug\TravelWebApi.csprojResolveAssemblyReference.cache
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\obj\Debug\TravelWebApi.csproj.CoreCompileInputs.cache
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\obj\Debug\TravelWebApi.dll
+F:\Tavisca Work\Web Api Application\TravelWebApi\TravelWebApi\obj\Debug\TravelWebApi.pdb
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\ApplicationInsights.config
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\csc.exe
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\csc.exe.config
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\csc.rsp
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\csi.exe
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\csi.exe.config
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\csi.rsp
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Console.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\vbc.exe
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\vbc.exe.config
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\vbc.rsp
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\TravelWebApi.dll.config
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\TravelWebApi.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\TravelWebApi.pdb
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Antlr3.Runtime.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Newtonsoft.Json.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Helpers.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Http.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Mvc.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Optimization.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Razor.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\WebGrease.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Newtonsoft.Json.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Helpers.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Http.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Mvc.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Optimization.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.Razor.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\obj\Debug\TravelWebApi.csprojAssemblyReference.cache
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\obj\Debug\TravelWebApi.csproj.CoreCompileInputs.cache
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\obj\Debug\TravelWebApi.csproj.CopyComplete
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\obj\Debug\TravelWebApi.dll
+C:\Users\smanchanda\Downloads\TravelWebApi\TravelWebApi\TravelWebApi\obj\Debug\TravelWebApi.pdb
